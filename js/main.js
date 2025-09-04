@@ -52,3 +52,4 @@ const sumArray = (arr) => {
 console.log(sumArray
     ([15, 34, 234, 342, 342, 342])
 );
+
